@@ -57,7 +57,7 @@ MISS-QA is used to benchmark proprietary and open-source **multimodal foundation
 ### 🔁 Step 0: Installation
 
 ```bash
-git clone https://github.com/QDRhhhh/MISSQA.git
+git clone https://github.com/yilunzhao/MISSQA.git
 cd MISSQA
 conda create --name missqa python=3.10
 conda activate missqa
